@@ -13,5 +13,5 @@
         <unique>false</unique>
     </fields>
     <label>Custom Setting11</label>
-    <customSettingsVisibility>Protected</customSettingsVisibility>
+    <visibility>Protected</visibility>
 </CustomObject>
